@@ -87,7 +87,7 @@ Note: This region will be the origin of your file.
 
 ## Exercise 4: Insert an Object in the Bucket
 
->   hello-world-html.zip
+>   https://github.com/VidyaLakshmi3110/labguide/raw/main/hello-world-html%20(2).zip
 
   Unzip this file and save the css folder and index file in the desktop.
 
