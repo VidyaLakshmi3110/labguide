@@ -4,7 +4,7 @@
 CloudFront is a content delivery network (CDN) service provided by AWS that delivers data, videos, applications, and APIs to viewers with low latency and high transfer speeds. 
 
 
-**1.CloudFront:** CloudFront is like a super-fast delivery service for the content. It has many locations around the world called “edge locations.” When someone visits your website, CloudFront sends the content from the edge location closest to them, making your website load faster for them.
+**1. CloudFront:** CloudFront is like a super-fast delivery service for the content. It has many locations around the world called “edge locations.” When someone visits your website, CloudFront sends the content from the edge location closest to them, making your website load faster for them.
 
 **2. Distribution:** A CloudFront “distribution” is like a set of instructions that tells CloudFront where your content is stored and how to deliver it to users. It specifies things like which origin server (like an S3 bucket or a web server) to get the content from and how long to cache it for.
 
@@ -51,7 +51,7 @@ For this lab guide we are using **Amazon S3 bucket** as the origin for a CloudFr
 
 ![](./Screenshotsofcloudlabs/3.png)
 
-You will see that the region is changed to Ohio.
+You will observe that the region is changed to Ohio.
 
 ![](./Screenshotsofcloudlabs/4.png)
 
