@@ -156,9 +156,10 @@ Note: This region will be the origin of your file.
 
 5. Scroll down and Choose **Origin access control settings**
 Click on **Create new OAC**
+
 ![](./Screenshotsofcloudlabs/25.png)
 
-6. Scroll down and in (WAF) Click on **Do not create security protections**
+7. Scroll down and in (WAF) Click on **Do not create security protections**
 
 ![](./Screenshotsofcloudlabs/26.png)
 
